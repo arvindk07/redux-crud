@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "id": 3,
+      "name": "Ramesh12",
+      "email": "ra.admin@in.com",
+      "phone": "9876543210",
+      "role": "admin"
+    },
+    {
+      "name": "Akilash",
+      "email": "ak@in.com",
+      "phone": "789900",
+      "role": "staff",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "900000222",
+      "role": "staff"
+    },
+    {
+      "name": "Arvind",
+      "email": "info.arvind07@gmail.com",
+      "phone": "8788999999",
+      "role": "staff",
+      "id": 6
+    },
+    {
+      "name": "kabir singh",
+      "email": "info.arvind07@gmail.com",
+      "phone": "8788999999",
+      "role": "staff",
+      "id": 7
+    },
+    {
+      "name": "kabir singh",
+      "email": "info.arvind07@gmail.com",
+      "phone": "8788999999",
+      "role": "Staff",
+      "id": 8
+    },
+    {
+      "name": "dev",
+      "email": "info.arvind07@gmail.com",
+      "phone": "8788999999",
+      "role": "staff",
+      "id": 9
+    }
+  ]
+}
